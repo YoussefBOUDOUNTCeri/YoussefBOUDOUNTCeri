@@ -4,7 +4,17 @@ https://www.youssefboudount.com
 
 # 💫 About Me:
 
-🔭 I’m currently working on University projects related to my field of study.`<br>`👯 I’m looking to collaborate on hackathons or student initiatives to develop innovative solutions.`<br>`🤝 I’m looking for help with finding resources or experts to help me delve deeper into certain technical aspects of my projects.`<br>`🌱 I’m currently learning the latest trends and tools in my field of study.`<br>`💬 Ask me about my experience with university projects and how I handle the associated challenges.`<br>`⚡ Fun fact: Even though I'm often engrossed in my studies, I love to relax by listening to classical music or taking a walk in nature.`<br>`
+🔭 I’m currently working on University projects related to my field of study.
+
+👯 I’m looking to collaborate on hackathons or student initiatives to develop innovative solutions.
+
+🤝 I’m looking for help with finding resources or experts to help me delve deeper into certain technical aspects of my projects.
+
+🌱 I’m currently learning the latest trends and tools in my field of study.
+
+💬 Ask me about my experience with university projects and how I handle the associated challenges.
+
+⚡ Fun fact: Even though I'm often engrossed in my studies, I love to relax by listening to classical music or taking a walk in nature.
 
 ## 🌐 Socials:
 
